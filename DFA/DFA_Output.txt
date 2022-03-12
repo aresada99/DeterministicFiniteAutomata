@@ -1,0 +1,14 @@
+String: 001 ------->    AcceptedRoute Taken: q0 q00 q001 
+
+String: 1001 ------->    AcceptedRoute Taken: q q0 q00 q001 
+
+String: 111 ------->    RejectedRoute Taken: q q q 
+
+String: 0 ------->    RejectedRoute Taken: q0 
+
+String: 10101010 ------->    RejectedRoute Taken: q q0 q q0 q q0 q q0 
+
+String: 1 ------->    RejectedRoute Taken: q 
+
+String:  ------->    RejectedRoute Taken: 
+
